@@ -9,6 +9,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
+
 # 第三方 SMTP 服务
 # mail_host 邮箱服务器
 # mail_user 用户名
